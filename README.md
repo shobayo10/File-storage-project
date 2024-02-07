@@ -5,4 +5,4 @@
 ##### Part - 1 : File Storage Service Web app hosted in S3 and API Gatweay & Lambda for the backend    -  *Completed*
     
 
-##### Part - 2 : Web Identity Federation using Cognito   -   *Work in Progress*  
+  
